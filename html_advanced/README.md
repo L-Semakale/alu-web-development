@@ -1,3 +1,4 @@
+![Get schooled] (html_advanced/1f4cd63ecc3a8c03b0f4309b74aca179e225aabf (1).jpg)
 Get schooled
 SMILES
 GRIN
