@@ -1,4 +1,4 @@
-![Get schooled] (html_advanced/1f4cd63ecc3a8c03b0f4309b74aca179e225aabf (1).jpg)
+![Get schooled] (https://github.com/L-Semakale/alu-web-development/blob/main/html_advanced/1f4cd63ecc3a8c03b0f4309b74aca179e225aabf%20(1).jpg)
 Get schooled
 SMILES
 GRIN
